@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bang Dream</string>
+    <string-array name="text">
+        <item>Click for start!!!</item>
+    </string-array>
+</resources>
+
